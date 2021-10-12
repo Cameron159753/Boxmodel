@@ -72,7 +72,7 @@ button{
 .flip-card {
   background-color: transparent;
   width: 300px;
-  height: 300px;
+  height: 400px;
   perspective: 1000px;
   height: fit-content;
 }
