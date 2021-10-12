@@ -65,8 +65,8 @@ button:hover {
   cursor: pointer;
 }
 button{
-  background-color:red;
-  border-color: royalblue;
+  background-color:rgb(14, 13, 13);
+  border-color: rgb(4, 54, 204);
   border-radius: 25%;
 }
 .flip-card {
@@ -118,6 +118,7 @@ button{
   margin: 2%;
   grid-template-columns: repeat(2, 1fr);
   margin-top: auto;
+  
 }
 /*
 cover page
